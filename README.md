@@ -9,6 +9,7 @@ Strauß, Strutz, Tuttner, Uhl, Waltl, Wieser, Zitz
 * GIT ![GitHub Logo](/logomark-orange@2x.png)
 * GitHub
 * Markdown
+* Branches
 
   [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   
