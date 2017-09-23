@@ -6,6 +6,8 @@
  
  GitHub ist der Online-Dienst welcher auf Git basiert.
  
+ Eine Versionsverwaltung wird dazu verwendet, um Programmupdates zu erhalten und auch ältere Programmversionen wieder herstellen zu  können.
+ 
  ### *Wichtige Befehle*
  
  clone  :point_right: Repository wird verdoppelt
