@@ -2,9 +2,9 @@
  
  ## ***Git*** 
  
- Git ist einen Software zur Versionsverwaltung von Daten.
+ Git ist eine Software zur Versionsverwaltung von Daten.
  
- Repositories können lokal gepeichert werden, außerdem ist die lokale Versionsverwaltung ist auch offline verfügbar.
+ Repositories können lokal gepeichert werden, außerdem ist die lokale Versionsverwaltung auch offline verfügbar.
  
  GitHub ist der Online-Dienst welcher auf Git basiert.
  
@@ -28,8 +28,11 @@
 
 "*" :point_right: Liste
 
+[GitHub Logo](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png):point_right: Bild verlinken
 
+"* *" :point_right: Kursiv
 
+"** **" :point_right: Fett
 
 ### *Branches*
 
