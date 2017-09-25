@@ -1,5 +1,13 @@
  # KW38
  
+Name: Markus Wieser
+
+Klasse: 4AHME
+
+Datum: 19.09.2017
+
+Gruppe: 4
+ 
  ## ***Git*** 
  
  Git ist eine Software zur Versionsverwaltung von Daten.
@@ -31,7 +39,7 @@
 
 "*" :point_right: Liste
 
-[GitHub Logo](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png):point_right: Bild verlinken
+[GitHub Logo](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png) [Name] (Link) :point_right: Bild verlinken
 
 "* *" :point_right: Kursiv
 
