@@ -10,7 +10,7 @@
  
  GitHub ist der Online-Dienst welcher auf Git basiert.
  
- Da es eine Open-Source Software ist kann jeder auf andere Repositories zugreifen. Außer man erstellt private Repositories, jedoch ist dies kostenpflichtig.
+ Da es eine Open-Source Software ist, kann jeder auf andere Repositories zugreifen. Außer man erstellt private Repositories, jedoch ist dies kostenpflichtig.
  
  
  ### *Wichtige Befehle*
