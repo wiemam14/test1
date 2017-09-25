@@ -4,11 +4,14 @@
  
  Git ist eine Software zur Versionsverwaltung von Daten.
  
+ Eine Versionsverwaltung wird dazu verwendet, um Programmänderungen zu erhalten und auch ältere Programmversionen wieder herstellen zu  können. Hierbei werden alle Versionen in einem Archiv gespeichert.
+ 
  Repositories können lokal gepeichert werden, außerdem ist die lokale Versionsverwaltung auch offline verfügbar.
  
  GitHub ist der Online-Dienst welcher auf Git basiert.
  
- Eine Versionsverwaltung wird dazu verwendet, um Programmupdates zu erhalten und auch ältere Programmversionen wieder herstellen zu  können.
+ Da es eine Open-Source Software ist kann jeder auf andere Repositories zugreifen. Außer man erstellt private Repositories, jedoch ist dies kostenpflichtig.
+ 
  
  ### *Wichtige Befehle*
  
