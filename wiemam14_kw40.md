@@ -16,7 +16,7 @@
   Im Gegensatz zur Harvard-Architektur, bei welcher diese physikalisch getrennt sind.
   
   
-  **Komponenten eine µC´s**
+  ### **Komponenten eines µC´s**
   
   ALU -> Das Rechenwerk (Arithmetic Logic Unit) ist eine digitale Schaltung, das arithmetische/logische Befehle ausführt.   
   
