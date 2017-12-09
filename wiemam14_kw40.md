@@ -38,7 +38,35 @@
   
   Mit dem Atmel Studio kann man in C aber auch in Assembler programmieren. Weiters kann man die Ausfürhung des Programms simulieren.
   
-  
+ ### *Stack*
+ 
+ Der Stack-Speicher funktioniert nach dem Last in First Out Prinzip. Dies bedeutet das Daten von unten noch oben abgelegt werden und auch nur so gelesen werden können.     
+ Befehle für den Stack: 
+ 
+ push -> Schiebt Daten auf den Stack. (Stackpointer wird verringert)       
+ pop -> Holt die oberste Datei vom Stack.(Stackpointer wird erhöht)   
+ call -> Speichert den aktuellen Wert des Program-Counters.
+ 
+ ### *Stackpointer*
+ 
+ Der Stackpointer zeigt immer auf den obersten freien Platz im Stack. Ein Stackoverflow entsteht wenn kein Speicher mehr frei ist und danach anstatt des Stacks in den Heap gespeichert wird. Dabei ist es sehr wahrscheinlich das es zu einem Systemabsturz kommt.
+ 
+ 
+### *Produktdaten des ATmega328p*
+
+Frequenz: 16MHz     
+CPU-Register: 32  
+Flash Speicher: 32kB    
+EEPROM: 1kB   
+SRAM: 2kB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
   
   
   
