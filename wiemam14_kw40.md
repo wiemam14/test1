@@ -52,6 +52,23 @@
  Der Stackpointer zeigt immer auf den obersten freien Platz im Stack. Ein Stackoverflow entsteht wenn kein Speicher mehr frei ist und danach anstatt des Stacks in den Heap gespeichert wird. Dabei ist es sehr wahrscheinlich das es zu einem Systemabsturz kommt.
  
  
+### *Besprochene Befehle*
+
+JMP -> Führt einen unbedingten Sprung durch   
+RJMP -> Führt einen relativen Sprung durch    
+LDI -> Lädt einen Wert in ein Register    
+PUSH -> Schiebt Daten in den Stack    
+POP -> Holt Daten vom Stack   
+CLR -> Setzt ein Register auf 0     
+OUT -> Überträgt Daten vom CPU-Register ins I/O Register     
+SER -> Setzt alle Bits ins Register   
+STD -> Holt einen Wert vom Register zurück      
+IN -> Holt einen Wert aus dem I/O Register      
+LDD -> Holt einen Wert aus einem Register     
+SUBI -> Subtrahiert ein Register      
+
+
+ 
 ### *Produktdaten des ATmega328p*
 
 Frequenz: 16MHz     
@@ -59,6 +76,8 @@ CPU-Register: 32
 Flash Speicher: 32kB    
 EEPROM: 1kB   
 SRAM: 2kB 
+
+
  
  
  
