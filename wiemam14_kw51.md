@@ -23,3 +23,13 @@ Es gibt drei unterschiedliche Varianten zur Datenübertragung:
 * Coils            -> Ein einzelnes Bit welches gelesen und beschrieben werden kann (z.B. LED).     
 * Input Register   -> Ein 16 Bit Wert welcher nur gelesen werden kann (z.B. Temperatursensor).    
 * Holding Register -> Ein 16 Bit Wert welcher gelesen und beschrieben werden kann.    
+
+## **Function-Codes**
+
+Der Function-Code definiert die Bedeutung eines Frames.   
+Dies wird in drei Kategorien unterteilt:
+
+* User defined Function Codes (65-72, 100-110)                    -> Werte dürfen individuell verwendet werden.    
+* Reserved Function Codes (8,9,10,13,14,41,42,90,91,125,126,127)  -> Werte welche von Unternehmen für Produkte verwendet werden.    
+* Public Function Codes(Alle Restlichen Werte)                    -> Werte welche von der Modbus.org community festgelegt werden.   
+
