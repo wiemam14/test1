@@ -33,3 +33,11 @@ Dies wird in drei Kategorien unterteilt:
 * Reserved Function Codes (8,9,10,13,14,41,42,90,91,125,126,127)  -> Werte welche von Unternehmen für Produkte verwendet werden.    
 * Public Function Codes(Alle Restlichen Werte)                    -> Werte welche von der Modbus.org community festgelegt werden.   
 
+## Java
+
+Einfach erklärt ist eine Klasse ein "Bauplan" für ein Programm. Ein Klasse besteht aus Attributen und Methoden.   
+public abstract class -> Bei einer abstrakten Klasse werden Methoden und Namen geschrieben aber es gibt keinen Code dazu.   
+Vererbungen -> Bei Java gibt es immer nur eine Einfachvererbung. 
+
+
+
