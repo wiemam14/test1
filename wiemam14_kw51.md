@@ -4,7 +4,7 @@
   Klasse: 4AHME   
   Datum: 19.12.2017   
   Anwesend: Tuttner Raphael, Waltl Kilian, Wieser Markus    
-  Abwesend: Strauß Lukas, Strutz Sebastian, Uhl Christian, Waltl Kilian, Zitz Karlheinz
+  Abwesend: Strauß Lukas, Strutz Sebastian, Uhl Christian, Zitz Karlheinz
   
   ## **Modbus**
   
@@ -32,6 +32,12 @@ Dies wird in drei Kategorien unterteilt:
 * User defined Function Codes (65-72, 100-110)                    -> Werte dürfen individuell verwendet werden.    
 * Reserved Function Codes (8,9,10,13,14,41,42,90,91,125,126,127)  -> Werte welche von Unternehmen für Produkte verwendet werden.    
 * Public Function Codes(Alle Restlichen Werte)                    -> Werte welche von der Modbus.org community festgelegt werden.   
+
+## **Modbus-Gateway**
+
+Mithilfe eines Modbus-Gateway kann man verschiedene Modbus Varianten miteinander verbinden.   
+In der PDU (Protocol Data Units) sind der Function code und und Dateien enthalten.    
+In der ADU (Application Data Unit) sind Frame Felder enthalten welche für die Adressierung und die Fehlererkennung zuständig sind.
 
 ## Java
 
